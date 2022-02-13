@@ -12,7 +12,7 @@ not for idleness God created games</h2>
    <li><span style="font-size: 64px; line-height: 30px; vertical-align: middle;">&bull;</span>розигришь игр</li>
    <li><span style="font-size: 64px; line-height: 30px; vertical-align: middle;">&bull;</span>оборудывания</li>
  </ul>
-<a href="https://www.aliexpress.com/?src=google&albch=fbrnd&acnt=655-555-1478&isdl=y&aff_short_key=UneMJZVf&albcp=2046682932&albag=73100473900&slnk=&trgt=aud-826855890864:kwd-47296404447&plac=&crea=367563026868&netw=g&device=c&mtctp=e&memo1=&albbt=Google_7_fbrnd&aff_platform=google&albagn=888888&isSmbActive=false&isSmbAutoCall=false&needSmbHouyi=false&gclid=CjwKCAiA9aKQBhBREiwAyGP5leyaPudAYQK_0FdbZNzNgVcbCFmKM3Jwb8lyT8JsODP6FtXWCXn_XxoCYVsQAvD_BwE">в магазин⮍</a>
+<a href="https://github.com/asfdsgdfbf/-sayt/blob/90e5d14c69a2e548656438164b97863467300562/README.md">в магазин⮍</a>
 <footer><p>тел:88002353535</p>
 gmail:random.pochta@gmail.com</footer>
 </html>
