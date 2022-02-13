@@ -16,14 +16,5 @@ h1{color:red;text-align:center ;}
 h2{color:blue;text-align: center;}
 p{background-color: lightgreen;}
  ul {
-    list-style-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1200px-Steam_icon_logo.svg.png);} 
-    ul {
-  list-style: none;
-}
-
-li {
-list-style-image: 32px;
-}
-a{color: black;background-color: lightgreen;}
-footer{background-color: l;}
+   
 </html>
