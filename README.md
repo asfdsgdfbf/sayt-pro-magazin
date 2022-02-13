@@ -13,4 +13,22 @@ not for idleness God created games</h2>
    <li><span style="font-size: 64px; line-height: 30px; vertical-align: middle;">&bull;</span>оборудывания</li>
  </ul>
 <a href="https://www.aliexpress.com/?src=google&albch=fbrnd&acnt=655-555-1478&isdl=y&aff_short_key=UneMJZVf&albcp=2046682932&albag=73100473900&slnk=&trgt=aud-826855890864:kwd-47296404447&plac=&crea=367563026868&netw=g&device=c&mtctp=e&memo1=&albbt=Google_7_fbrnd&aff_platform=google&albagn=888888&isSmbActive=false&isSmbAutoCall=false&needSmbHouyi=false&gclid=CjwKCAiA9aKQBhBREiwAyGP5leyaPudAYQK_0FdbZNzNgVcbCFmKM3Jwb8lyT8JsODP6FtXWCXn_XxoCYVsQAvD_BwE">в магазин⮍</a>
+ body {
+    font-family: sans-serif;
+}
+header{background-color: rgb(241, 225, 225);}
+h1{color:red;text-align:center ;}
+h2{color:blue;text-align: center;}
+p{background-color: lightgreen;}
+ ul {
+    list-style-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1200px-Steam_icon_logo.svg.png);} 
+    ul {
+  list-style: none;
+}
+
+li {
+list-style-image: 32px;
+}
+a{color: black;background-color: lightgreen;}
+footer{background-color: l;}
 </html>
